@@ -1,0 +1,1034 @@
+{
+	"head": {
+		"vars": [ "country", "region", "co2kt" ]
+	}, 
+	"results": {
+		"bindings": [
+			{
+				"country": { "type": "literal", "value": "World" }, 
+				"co2kt": {  }, 
+				"region": {  }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Afghanistan" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "6314.574" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "South Asia" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Albania" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "3006.94" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Europe & Central Asia (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Algeria" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "121311.694" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Middle East & North Africa (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Andorra" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "517.047" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Europe & Central Asia (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Angola" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "26655.423" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Sub-Saharan Africa (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Antigua and Barbuda" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "462.042" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Latin America & Caribbean (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Argentina" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "174717.882" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Latin America & Caribbean (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Armenia" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "4492.075" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Europe & Central Asia (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Aruba" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "2295.542" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Latin America & Caribbean (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Australia" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "400194.378" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "East Asia & Pacific (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Austria" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "62313.331" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Europe & Central Asia (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Azerbaijan" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "49075.461" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Europe & Central Asia (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Bahamas, The" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "2585.235" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Latin America & Caribbean (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Bahrain" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "24220.535" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Middle East & North Africa (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Bangladesh" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "51037.306" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "South Asia" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Barbados" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "1573.143" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Latin America & Caribbean (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Belarus" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "60292.814" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Europe & Central Asia (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Belgium" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "103592.75" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Europe & Central Asia (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Belize" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "414.371" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Latin America & Caribbean (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Benin" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "4855.108" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Sub-Saharan Africa (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Bermuda" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "465.709" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "North America" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Bhutan" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "421.705" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "South Asia" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Bolivia" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "14488.317" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Latin America & Caribbean (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Bosnia and Herzegovina" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "30098.736" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Europe & Central Asia (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Botswana" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "4429.736" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Sub-Saharan Africa (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Brazil" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "367147.374" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Latin America & Caribbean (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Brunei Darussalam" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "9281.177" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "East Asia & Pacific (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Bulgaria" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "42804.891" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Europe & Central Asia (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Burkina Faso" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "1668.485" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Sub-Saharan Africa (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Burundi" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "190.684" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Sub-Saharan Africa (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Cambodia" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "4613.086" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "East Asia & Pacific (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Cameroon" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "6673.94" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Sub-Saharan Africa (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Canada" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "513937.384" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "North America" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Cape Verde" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "315.362" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Sub-Saharan Africa (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Cayman Islands" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "513.38" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Latin America & Caribbean (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Central African Republic" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "234.688" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Sub-Saharan Africa (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Chad" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "414.371" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Sub-Saharan Africa (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Chile" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "66732.066" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Latin America & Caribbean (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "China" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "7687113.765" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "East Asia & Pacific (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Colombia" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "71231.475" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Latin America & Caribbean (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Comoros" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "124.678" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Sub-Saharan Africa (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Congo, Dem. Rep." }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "2695.245" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Sub-Saharan Africa (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Congo, Rep." }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "1943.51" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Sub-Saharan Africa (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Costa Rica" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "8316.756" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Latin America & Caribbean (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Cote d'Ivoire" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "6596.933" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Sub-Saharan Africa (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Croatia" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "21536.291" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Europe & Central Asia (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Cuba" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "31616.874" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Latin America & Caribbean (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Cyprus" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "8199.412" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Europe & Central Asia (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Czech Republic" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "108121.495" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Europe & Central Asia (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Denmark" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "45698.154" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Europe & Central Asia (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Djibouti" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "531.715" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Middle East & North Africa (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Dominica" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "128.345" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Latin America & Caribbean (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Dominican Republic" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "20333.515" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Latin America & Caribbean (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "East Asia & Pacific (all income levels)" }, 
+				"co2kt": {  }, 
+				"region": { "type": "literal", "value": "World" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Ecuador" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "30102.403" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Latin America & Caribbean (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Egypt, Arab Rep." }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "216136.647" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Middle East & North Africa (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "El Salvador" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "6299.906" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Latin America & Caribbean (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Equatorial Guinea" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "4814.771" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Sub-Saharan Africa (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Eritrea" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "513.38" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Sub-Saharan Africa (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Estonia" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "15951.45" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Europe & Central Asia (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Ethiopia" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "7887.717" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Sub-Saharan Africa (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Europe & Central Asia (all income levels)" }, 
+				"co2kt": {  }, 
+				"region": { "type": "literal", "value": "World" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Faeroe Islands" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "707.731" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Europe & Central Asia (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Fiji" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "847.077" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "East Asia & Pacific (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Finland" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "53567.536" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Europe & Central Asia (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "France" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "363355.696" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Europe & Central Asia (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "French Polynesia" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "894.748" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "East Asia & Pacific (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Gabon" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "1624.481" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Sub-Saharan Africa (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Gambia, The" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "436.373" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Sub-Saharan Africa (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Georgia" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "5845.198" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Europe & Central Asia (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Germany" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "734599.109" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Europe & Central Asia (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Ghana" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "7444.01" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Sub-Saharan Africa (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Greece" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "94916.628" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Europe & Central Asia (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Greenland" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "575.719" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Europe & Central Asia (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Grenada" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "245.689" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Latin America & Caribbean (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Guatemala" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "15203.382" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Latin America & Caribbean (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Guinea" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "1228.445" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Sub-Saharan Africa (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Guinea-Bissau" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "293.36" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Sub-Saharan Africa (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Guyana" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "1554.808" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Latin America & Caribbean (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Haiti" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "2269.873" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Latin America & Caribbean (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Honduras" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "7704.367" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Latin America & Caribbean (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Hong Kong SAR, China" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "36992.696" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "East Asia & Pacific (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Hungary" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "48675.758" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Europe & Central Asia (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Iceland" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "2027.851" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Europe & Central Asia (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "India" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "1979424.598" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "South Asia" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Indonesia" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "451781.734" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "East Asia & Pacific (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Iran, Islamic Rep." }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "602055.394" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Middle East & North Africa (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Iraq" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "109038.245" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Middle East & North Africa (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Ireland" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "41642.452" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Europe & Central Asia (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Israel" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "67216.11" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Middle East & North Africa (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Italy" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "400836.103" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Europe & Central Asia (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Jamaica" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "8573.446" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Latin America & Caribbean (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Japan" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "1101134.094" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "East Asia & Pacific (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Jordan" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "22548.383" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Middle East & North Africa (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Kazakhstan" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "225802.859" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Europe & Central Asia (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Kenya" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "12350.456" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Sub-Saharan Africa (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Kiribati" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "51.338" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "East Asia & Pacific (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Korea, Dem. Rep." }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "75103.827" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "East Asia & Pacific (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Korea, Rep." }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "509375.636" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "East Asia & Pacific (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Kuwait" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "80204.624" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Middle East & North Africa (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Kyrgyz Republic" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "6721.611" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Europe & Central Asia (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Lao PDR" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "1811.498" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "East Asia & Pacific (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Latin America & Caribbean (all income levels)" }, 
+				"co2kt": {  }, 
+				"region": { "type": "literal", "value": "World" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Latvia" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "6651.938" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Europe & Central Asia (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Lebanon" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "20967.906" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Middle East & North Africa (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Liberia" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "524.381" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Sub-Saharan Africa (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Libya" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "62874.382" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Middle East & North Africa (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Lithuania" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "12838.167" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Europe & Central Asia (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Luxembourg" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "10142.922" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Europe & Central Asia (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Macao SAR, China" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "1466.8" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "East Asia & Pacific (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Macedonia, FYR" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "11342.031" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Europe & Central Asia (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Madagascar" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "1822.499" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Sub-Saharan Africa (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Malawi" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "1059.763" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Sub-Saharan Africa (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Malaysia" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "198348.03" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "East Asia & Pacific (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Maldives" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "1026.76" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "South Asia" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Mali" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "612.389" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Sub-Saharan Africa (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Malta" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "2497.227" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Middle East & North Africa (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Marshall Islands" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "102.676" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "East Asia & Pacific (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Mauritania" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "2075.522" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Sub-Saharan Africa (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Mauritius" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "3824.681" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Sub-Saharan Africa (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Mexico" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "446237.23" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Latin America & Caribbean (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Micronesia, Fed. Sts." }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "62.339" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "East Asia & Pacific (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Middle East & North Africa (all income levels)" }, 
+				"co2kt": {  }, 
+				"region": { "type": "literal", "value": "World" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Moldova" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "4547.08" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Europe & Central Asia (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Mongolia" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "14502.985" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "East Asia & Pacific (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Montenegro" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "3050.944" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Europe & Central Asia (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Morocco" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "48815.104" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Middle East & North Africa (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Mozambique" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "2599.903" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Sub-Saharan Africa (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Myanmar" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "11092.675" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "East Asia & Pacific (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Namibia" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "3586.326" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Sub-Saharan Africa (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Nepal" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "3516.653" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "South Asia" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Netherlands" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "169650.088" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Europe & Central Asia (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "New Caledonia" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "2970.27" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "East Asia & Pacific (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "New Zealand" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "32064.248" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "East Asia & Pacific (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Nicaragua" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "4462.739" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Latin America & Caribbean (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Niger" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "1158.772" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Sub-Saharan Africa (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Nigeria" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "70234.051" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Sub-Saharan Africa (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "North America" }, 
+				"co2kt": {  }, 
+				"region": { "type": "literal", "value": "World" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Norway" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "47076.946" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Europe & Central Asia (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Oman" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "41143.74" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Middle East & North Africa (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Pakistan" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "161219.655" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "South Asia" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Palau" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "209.019" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "East Asia & Pacific (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Panama" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "7843.713" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Latin America & Caribbean (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Papua New Guinea" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "3479.983" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "East Asia & Pacific (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Paraguay" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "4517.744" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Latin America & Caribbean (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Peru" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "47355.638" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Latin America & Caribbean (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Philippines" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "68550.898" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "East Asia & Pacific (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Poland" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "298904.504" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Europe & Central Asia (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Portugal" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "57399.551" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Europe & Central Asia (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Qatar" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "70344.061" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Middle East & North Africa (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Romania" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "79485.892" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Europe & Central Asia (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Russian Federation" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "1574386.113" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Europe & Central Asia (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Rwanda" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "726.066" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Sub-Saharan Africa (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Samoa" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "161.348" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "East Asia & Pacific (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Sao Tome and Principe" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "128.345" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Sub-Saharan Africa (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Saudi Arabia" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "432772.006" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Middle East & North Africa (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Senegal" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "4576.416" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Sub-Saharan Africa (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Serbia" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "46251.871" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Europe & Central Asia (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Seychelles" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "737.067" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Sub-Saharan Africa (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Sierra Leone" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "1415.462" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Sub-Saharan Africa (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Singapore" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "31895.566" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "East Asia & Pacific (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Slovak Republic" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "33890.414" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Europe & Central Asia (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Slovenia" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "15291.39" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Europe & Central Asia (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Solomon Islands" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "198.018" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "East Asia & Pacific (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Somalia" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "594.054" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Sub-Saharan Africa (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "South Africa" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "499016.361" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Sub-Saharan Africa (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "South Asia" }, 
+				"co2kt": {  }, 
+				"region": { "type": "literal", "value": "World" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Spain" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "288229.867" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Europe & Central Asia (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Sri Lanka" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "12658.484" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "South Asia" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "St. Kitts and Nevis" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "260.357" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Latin America & Caribbean (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "St. Lucia" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "385.035" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Latin America & Caribbean (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "St. Vincent and the Grenadines" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "201.685" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Latin America & Caribbean (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Sub-Saharan Africa (all income levels)" }, 
+				"co2kt": {  }, 
+				"region": { "type": "literal", "value": "World" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Sudan" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "14337.97" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Sub-Saharan Africa (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Suriname" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "2471.558" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Latin America & Caribbean (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Swaziland" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "1023.093" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Sub-Saharan Africa (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Sweden" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "43743.643" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Europe & Central Asia (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Switzerland" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "41598.448" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Europe & Central Asia (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Syrian Arab Republic" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "65312.937" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Middle East & North Africa (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Tajikistan" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "2834.591" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Europe & Central Asia (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Tanzania" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "6959.966" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Sub-Saharan Africa (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Thailand" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "271721.033" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "East Asia & Pacific (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Timor-Leste" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "183.35" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "East Asia & Pacific (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Togo" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "1485.135" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Sub-Saharan Africa (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Tonga" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "176.016" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "East Asia & Pacific (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Trinidad and Tobago" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "47781.01" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Latin America & Caribbean (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Tunisia" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "25155.62" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Middle East & North Africa (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Turkey" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "277844.923" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Europe & Central Asia (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Turkmenistan" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "48162.378" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Europe & Central Asia (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Turks and Caicos Islands" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "161.348" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Latin America & Caribbean (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Uganda" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "3479.983" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Sub-Saharan Africa (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Ukraine" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "272175.741" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Europe & Central Asia (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "United Arab Emirates" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "156822.922" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Middle East & North Africa (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "United Kingdom" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "474579.473" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Europe & Central Asia (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "United States" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "5299563.068" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "North America" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Uruguay" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "7891.384" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Latin America & Caribbean (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Uzbekistan" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "116507.924" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Europe & Central Asia (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Vanuatu" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "117.344" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "East Asia & Pacific (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Venezuela, RB" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "184794.798" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Latin America & Caribbean (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Vietnam" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "142257.598" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "East Asia & Pacific (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "West Bank and Gaza" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "2163.53" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Middle East & North Africa (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Yemen, Rep." }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "23996.848" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Middle East & North Africa (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Zambia" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "1983.847" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Sub-Saharan Africa (all income levels)" }
+			}, 
+			{
+				"country": { "type": "literal", "xml:lang": "en", "value": "Zimbabwe" }, 
+				"co2kt": { "type": "typed-literal", "datatype": "http:\/\/www.w3.org\/2001\/XMLSchema#decimal", "value": "8914.477" }, 
+				"region": { "type": "literal", "xml:lang": "en", "value": "Sub-Saharan Africa (all income levels)" }
+			}
+		]
+	}
+}
