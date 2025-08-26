@@ -1,16 +1,45 @@
-# carbon_emission_app
+# Green Journey 🌱
+**An Android (Flutter) app to track and reduce personal carbon footprints.**
 
-Carbon Emissions Mobile Application
+---
 
-## Getting Started
+## 📖 Overview
+Green Journey is a mobile application designed to empower individuals to monitor and reduce their carbon dioxide (CO₂) emissions. By logging daily activities and travel modes, users receive **real-time calculations** of their environmental impact. The app provides insights, emission history, and recommendations that encourage sustainable lifestyle choices.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## ✨ Features
+- 🔑 **User Registration & Login** – Secure authentication  
+- 📋 **Activity Logging** – Input daily activities & travel modes  
+- 🧮 **Real-time Emission Calculator** – Instant CO₂ footprint tracking  
+- ☁️ **Data Synchronization** – Google Firebase backend for reliable storage  
+- 📊 **Emission History** – Visualize trends and progress over time  
+- 📱 **Cross-Platform UI** – Built with Flutter for a smooth experience  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🏗️ System Architecture
+- **Frontend:** Flutter + Dart  
+- **Backend:** Google Firebase (authentication, data sync)  
+- **Local Database:** SQLite (user activity logs & emission records)  
+
+---
+
+## 🎯 Motivation
+With climate change becoming one of the world’s most pressing challenges, Green Journey focuses on the **individual’s role** in reducing carbon emissions. The app raises awareness, provides actionable feedback, and promotes eco-conscious behavior in daily life.
+
+---
+
+## 📚 Tech Stack
+- **Framework:** Flutter  
+- **Language:** Dart  
+- **Database:** SQLite  
+- **Backend/Cloud:** Firebase  
+
+---
+
+## 🚀 Getting Started
+1. Clone this repo:  
+   ```bash
+   git clone https://github.com/Hamlawiii/GreenJourney.git
+   cd GreenJourney
